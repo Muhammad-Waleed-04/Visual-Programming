@@ -1,0 +1,14 @@
+D:\semester 6\Visual Programming\LanGameHub\bin\Debug\net8.0-windows\LanGameHub.exe
+D:\semester 6\Visual Programming\LanGameHub\bin\Debug\net8.0-windows\LanGameHub.deps.json
+D:\semester 6\Visual Programming\LanGameHub\bin\Debug\net8.0-windows\LanGameHub.runtimeconfig.json
+D:\semester 6\Visual Programming\LanGameHub\bin\Debug\net8.0-windows\LanGameHub.dll
+D:\semester 6\Visual Programming\LanGameHub\bin\Debug\net8.0-windows\LanGameHub.pdb
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.AssemblyInfoInputs.cache
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.AssemblyInfo.cs
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.csproj.CoreCompileInputs.cache
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.dll
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\refint\LanGameHub.dll
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.pdb
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\LanGameHub.genruntimeconfig.cache
+D:\semester 6\Visual Programming\LanGameHub\obj\Debug\net8.0-windows\ref\LanGameHub.dll
